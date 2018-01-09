@@ -1,0 +1,14 @@
+{
+  "name": "babeles6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clases.js",
+  "scripts": {
+    "babel": "babel clases.js --out-file compiled.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
